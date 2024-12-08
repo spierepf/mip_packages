@@ -1,0 +1,7 @@
+{
+  "urls": [
+    ["microdot/__init__.py", "github:miguelgrinberg/microdot/src/microdot/__init__.py"],
+    ["microdot/microdot.py", "github:miguelgrinberg/microdot/src/microdot/microdot.py"]
+  ],
+  "version": "2.0.8.dev0"
+}
