@@ -1,0 +1,8 @@
+{
+  "urls": [
+    ["utemplate/compiled.py", "github:pfalcon/utemplate/utemplate/compiled.py"],
+    ["utemplate/recompile.py", "github:pfalcon/utemplate/utemplate/recompile.py"],
+    ["utemplate/source.py", "github:pfalcon/utemplate/utemplate/source.py"]
+  ],
+  "version": "1.4.1"
+}
