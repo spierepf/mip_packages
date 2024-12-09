@@ -3,8 +3,8 @@
     ["microdot/utemplate.py", "github:miguelgrinberg/microdot/src/microdot/utemplate.py"]
   ],
   "deps": [
-    ["github:spierepf/mip_packages/microdot", "refs/heads/master"],
-    ["github:spierepf/mip_packages/utemplate", "refs/heads/master"]
+    ["github:spierepf/mip_packages/utemplate", "master"],
+    ["github:spierepf/mip_packages/microdot", "main"],
   ],
   "version": "2.0.8.dev0"
 }
