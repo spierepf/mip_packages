@@ -2,5 +2,8 @@
   "urls": [
     ["rpc.py", "github:spierepf/rpc/rpc.py"]
   ],
+  "deps": [
+    ["logging"]
+  ],
   "version": "0.1"
 }
