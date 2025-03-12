@@ -3,7 +3,7 @@
     ["rpc.py", "github:spierepf/rpc/rpc.py"]
   ],
   "deps": [
-    ["logging"]
+    ["logging", "latest"]
   ],
   "version": "0.1"
 }
