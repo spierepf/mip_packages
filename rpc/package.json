@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["rpc.py", "github:spierepf/rpc/rpc.py"]
+  ],
+  "version": "0.1"
+}
