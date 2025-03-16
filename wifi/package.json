@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["wifi.py", "github:spierepf/wifi/wifi.py"]
+  ],
+  "deps": [
+    ["logging", "latest"]
+  ],
+  "version": "0.1"
+}
